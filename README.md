@@ -14,8 +14,8 @@ Building at the intersection of design and development—creating tools and expe
 - 🎓 High school student in Georgia, pursuing design + CS
 
 ## Let's Connect
-- 📧 [aadityaombase49@gmail.com]
-- 🌐 [https://www.linkedin.com/in/aaditya-o-a381b1369/]
+- 📧 aadityaombase49@gmail.com
+- 🌐 https://www.linkedin.com/in/aaditya-o-a381b1369/
 - 💼 Open to internships, mentorship, and collaboration on design systems or community-impact projects
 
 ---
